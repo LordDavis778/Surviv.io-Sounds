@@ -69,19 +69,19 @@
         {
           "type": "normalOverride",
           "match": "http*://surviv.io/audio/guns/bar_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Surviv.io%20GS/bar_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
           "match": "http*://surviv.io/audio/guns/bar_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Surviv.io%20GS/bar_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_reload_01.mp3",
           "on": true
         },
         {
           "type": "normalOverride",
           "match": "http*://surviv.io/audio/guns/bar_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Surviv.io%20GS/bar_switch_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_switch_01.mp3",
           "on": true
         },
         {
@@ -838,24 +838,6 @@
           "type": "normalOverride",
           "match": "http*://surviv.io/audio/guns/sv98_cycle_01.mp3",
           "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/sv98_cycle_01.mp3",
-          "on": true
-        },
-        {
-          "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_01.mp3",
-          "on": true
-        },
-        {
-          "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_switch_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_switch_01.mp3",
-          "on": true
-        },
-        {
-          "type": "normalOverride",
-          "match": "http*://surviv.io/audio/guns/bar_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/bar_reload_01.mp3",
           "on": true
         }
       ],
