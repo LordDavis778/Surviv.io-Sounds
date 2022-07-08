@@ -159,7 +159,7 @@
         {
           "type": "normalOverride",
           "match": "http*://surviv.io/audio/guns/m1014_reload_01.mp3",
-          "replace": "https://raw.githubusercontent.com/FilipKZhong/Surviv.io-Sounds/master/Surviv.io%20GS/m1014_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1014_reload_01.mp3",
           "on": true
         },
         {
