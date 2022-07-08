@@ -869,6 +869,12 @@
           "match": "http*://surviv.io/audio/guns/m1100_01.mp3",
           "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1100_01.mp3",
           "on": true
+        },
+        {
+          "type": "normalOverride",
+          "match": "http*://surviv.io/audio/guns/m1100_reload_01.mp3",
+          "replace": "https://raw.githubusercontent.com/LordDavis778/Surviv.io-Sounds/master/surviv.io-sounds/m1100_reload_01.mp3",
+          "on": true
         }
       ],
       "on": true
